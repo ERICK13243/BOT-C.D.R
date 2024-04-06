@@ -15,9 +15,9 @@
 </p>
  
 
-<a href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/H3GvlpUBh1ZJ1KNCEteaGU" target="blank"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle" target="blank"><img src="https://img.shields.io/badge/grupo de soporté-✨-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/H3GvlpUBh1ZJ1KNCEteaGU" target="blank"><img src="https://img.shields.io/badge/grupo de soporté-✨-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS
 
@@ -25,7 +25,7 @@
 <a href="https://github.com/ERICK13243"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FB0000]&center=falso&vCenter=falso&lines=𝑩𝑶𝑻-𝑪.𝑫.𝑹++;𝐵𝑜𝑡𝑠+𝑂𝑓𝑖𝑐𝑎𝑙𝑒𝑠+𝑑𝑒" height="100px"></a> 
 </p>
 
-<a href="https://api.whatsapp.com/send/?phone=50230916828&text=.estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=447534352383&text=.estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > NO SPAMEAR COMANDOS
 
@@ -122,7 +122,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - UNIFINED NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
  
  ### ` DUDAS SOBRE EL BOT?, CONTACTAME`
-<a href="http://wa.me/447397301062" target="blank"><img src="https://img.shields.io/badge/UNIFINED-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/447863572502" target="blank"><img src="https://img.shields.io/badge/UNIFINED-OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## <h1>`PROPIETARIO DEL BOT`</h1>
