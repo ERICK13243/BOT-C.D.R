@@ -494,7 +494,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `✞︎ 𝑻𝑰𝑬𝑴𝑷𝑶 𝑨𝑪𝑻𝑰𝑽𝑶: ✞︎ ${uptime} ✞︎ ✞︎ ${packname} ✞︎ |𝑩𝒚 𝑬𝑹𝑰𝑪𝑲-𝑶𝑭𝑪 • 𝑵𝑰𝑮𝑮𝑨`;
+  
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
